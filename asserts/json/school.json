@@ -1,0 +1,186 @@
+[
+  {
+    "name": "Gajera school",
+    "type": "private",
+    "capacity": "300",
+    "scale": "secondary",
+    "location": "surat",
+    "staff_quantity": "30"
+  },
+  {
+    "name": "ad4 school",
+    "type": "government",
+    "capacity": "100",
+    "scale": "primary",
+    "location": "surat",
+    "staff_quantity": "50"
+  },
+  {
+    "name": "xyz school",
+    "type": "privete",
+    "capacity": "300",
+    "scale": "secondary",
+    "location": "surat",
+    "staff_quantity": "30"
+  },
+  {
+    "name": "Ashadeep school",
+    "type": "private",
+    "capacity": "500",
+    "scale": "primary",
+    "location": "surat",
+    "staff_quantity": "90"
+  },
+  {
+    "name": "red school",
+    "type": "privete",
+    "capacity": "300",
+    "scale": "secondary",
+    "location": "surat",
+    "staff_quantity": "30"
+  },
+  {
+    "name": "black school",
+    "type": "private",
+    "capacity": "100",
+    "scale": "primary",
+    "location": "surat",
+    "staff_quantity": "30"
+  },
+  {
+    "name": "Sankardeep school",
+    "type": "private",
+    "capacity": "400",
+    "scale": "secondary",
+    "location": "surat",
+    "staff_quantity": "30"
+  },
+  {
+    "name": "holiday school",
+    "type": "privete",
+    "capacity": "500",
+    "scale": "secondary",
+    "location": "surat",
+    "staff_quantity": "30"
+  },
+  {
+    "name": "Lp savani school",
+    "type": "privete",
+    "capacity": "300",
+    "scale": "secondary",
+    "location": "surat",
+    "staff_quantity": "30"
+  },
+  {
+    "name": "Singnature school",
+    "type": "privete",
+    "capacity": "600",
+    "scale": "high - secondary",
+    "location": "surat",
+    "staff_quantity": "30"
+  },
+  {
+    "name": "Little school",
+    "type": "goverment",
+    "capacity": "300",
+    "scale": "secondary",
+    "location": "ahmadabad",
+    "staff_quantity": "30"
+  },
+  {
+    "name": "Vishwabharti school",
+    "type": "privete",
+    "capacity": "100",
+    "scale": "primary",
+    "location": "surat",
+    "staff_quantity": "730"
+  },
+  {
+    "name": "Aspire school",
+    "type": "privete",
+    "capacity": "800",
+    "scale": "secondary",
+    "location": "surat",
+    "staff_quantity": "90"
+  },
+  {
+    "name": "Gajera school",
+    "type": "privete",
+    "capacity": "300",
+    "scale": "secondary",
+    "location": "surat",
+    "staff_quantity": "30"
+  },
+  {
+    "name": "Little Muni school",
+    "type": "Goverment",
+    "capacity": "300",
+    "scale": "secondary",
+    "location": "surat",
+    "staff_quantity": "60"
+  },
+  {
+    "name": "vastar school",
+    "type": "privete",
+    "capacity": "300",
+    "scale": "secondary",
+    "location": "surat",
+    "staff_quantity": "30"
+  },
+  {
+    "name": "star school",
+    "type": "privete",
+    "capacity": "300",
+    "scale": "secondary",
+    "location": "surat",
+    "staff_quantity": "30"
+  },
+  {
+    "name": "pioneer school",
+    "type": "privete",
+    "capacity": "300",
+    "scale": "secondary",
+    "location": "surat",
+    "staff_quantity": "30"
+  },
+  {
+    "name": "Lp school",
+    "type": "privete",
+    "capacity": "300",
+    "scale": "secondary",
+    "location": "surat",
+    "staff_quantity": "30"
+  },
+  {
+    "name": "kaju school",
+    "type": "privete",
+    "capacity": "300",
+    "scale": "secondary",
+    "location": "surat",
+    "staff_quantity": "40"
+  },
+  {
+    "name": "sharee bakul school",
+    "type": "goverment",
+    "capacity": "300",
+    "scale": "secondary",
+    "location": "surat",
+    "staff_quantity": "30"
+  },
+  {
+    "name": "VDS school",
+    "type": "privete",
+    "capacity": "500",
+    "scale": "secondary",
+    "location": "surat",
+    "staff_quantity": "30"
+  },
+  {
+    "name": "SMC school",
+    "type": "Goverment",
+    "capacity": "300",
+    "scale": "secondary",
+    "location": "surat",
+    "staff_quantity": "50"
+  }
+]
